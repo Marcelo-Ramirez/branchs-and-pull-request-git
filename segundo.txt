@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola que tal 2
+=======
+hola que tal
+>>>>>>> 327b59c2e9ea3a618763c98d4f094febc398632a
